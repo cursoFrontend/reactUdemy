@@ -1,0 +1,43 @@
+.wheatherData{
+    background: rgb(240, 240, 240,0.5);
+    height: 150px;
+    margin: 15px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    width: auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.wheatherTemparatureCont{
+    width: 60%;
+    display: inline-block;
+    line-height: 150px;
+}
+.WheatherExtraInfoCont{
+    width: 40%;
+    display: inline-block;
+    line-height: 28px;
+    text-align: left;
+}
+.temperature{
+    font-size: 28px;
+    font-weight: bold;
+    padding-left: 10px;
+    color: #333;
+}
+.temperatureType{
+    font-weight: bold;
+    color: #666;
+}
+.wicon{
+    color: orange;
+}
+.extraInfoText{
+    display: block;
+    color: #4564;
+    font-size: 18px;
+    font-weight: bold;
+}
